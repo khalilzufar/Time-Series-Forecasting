@@ -1,14 +1,13 @@
 # Time-Series-Forecasting 
 
 ## Overview 🌟
-Tujuan utama dari proyek ini adalah memprediksi popularitas wisata Pulau Pari dalam satu tahun ke depan berdasarkan data historis. Analisis mencakup:
+Proyek ini bertujuan untuk memprediksi popularitas wisata Pulau Pari dalam satu tahun ke depan berdasarkan data mingguan dari Google Trends. Analisis mencakup:
 
-- 🧑‍💻 Eksplorasi Data
-- 🧹 Pembersihan Data
-- 🔍 Pemodelan
-- 📊 Evaluasi
-
-Model ini diharapkan memberikan wawasan untuk membantu pengambil keputusan dalam meningkatkan popularitas dan strategi pemasaran destinasi wisata Pulau Pari.
+🧑‍💻 Eksplorasi Data
+🧹 Pembersihan Data
+🔍 Pemodelan
+📊 Evaluasi
+Model ini diharapkan memberikan wawasan untuk membantu pengambil keputusan dalam meningkatkan popularitas dan strategi pemasaran destinasi wisata Pulau Pari. Dataset yang digunakan terdiri dari kolom Week (tanggal mingguan) dan Pulau Pari (Indonesia) yang mengukur popularitas dalam skala 0 hingga 100.
 
 ## Objectives 🎯
 - Memprediksi popularitas wisata Pulau Pari selama satu tahun ke depan menggunakan data historis.
