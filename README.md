@@ -23,6 +23,10 @@ Model ini diharapkan memberikan wawasan untuk membantu pengambil keputusan dalam
 - Modelling: Statsmodels (SARIMAX, ARIMAX)
 - Evaluasi: Scikit-Learn (mean_absolute_error, mean_absolute_percentage_error)
 
+## Results 📈
+
+The ARIMA model achieved a test MAPE of 24.30% (24.2979%) on the evaluation data.
+
 ## How to Use 🛠️
 1. **Clone repositori ini:**
    ```bash
